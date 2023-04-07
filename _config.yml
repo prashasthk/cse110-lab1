@@ -2,3 +2,5 @@ title: About Me
 author: Prash Katukojwala
 
 theme: minima
+plugins:
+  - jekyll-titles-from-headings
