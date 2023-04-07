@@ -1,7 +1,6 @@
-title: About Me
-author: Prash Katukojwala
-
-theme: minima
+remote_theme: jekyll/minima@3cdd14d
+minima:
+    skin: dark
 plugins:
   - jekyll-titles-from-headings
 titles_from_headings:
