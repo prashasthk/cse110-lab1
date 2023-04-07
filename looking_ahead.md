@@ -4,7 +4,7 @@ Some goals I have for CSE 110 this quarter are:
 - [x] Attend week one lectures
 - [ ] Attend lectures for the rest of the quarter
 - [ ] Familiarize myself with JavaScript, HTML, CSS
-- [ ] Practice with `git` workflows and commands (`git add`, `git commit`, `git push`, much more)
+- [ ] Practice with `git` workflows and commands (`git add`, `git commit`, `git push`, and much more)
 - [ ] Learn more about current web and full stack technologies
 - [ ] Challenge myself with writing **good quality** code
 - [ ] Work in a productive and organized team environment
