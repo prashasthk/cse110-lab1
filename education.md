@@ -17,5 +17,5 @@ PS: I hope CSE 110 will be on this list by the end of the quarter :)
 <br> <br>
 
 <p align="center">
-  <img src=./assets/ucsd_logo.png />
+  <img src="./assets/ucsd_logo.png"/>
 </p>

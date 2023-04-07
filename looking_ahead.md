@@ -20,7 +20,7 @@ def success_in_110():
 <br>
 
 <p align="center">
-  <img src=./assets/cse_110_logo.png />
+  <img src="./assets/cse_110_logo.png"/>
 </p>
 
 
