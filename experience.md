@@ -1,6 +1,6 @@
 ## Software Engineering Experience
 
-Some recent experiences with software engineering I have been lucky to have:
+Some recent experiences with software engineering I have been fortunate to have:
 
 1. San Diego Supercomputer Center (UCSD)
 2. IBM Accelerate
