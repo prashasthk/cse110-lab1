@@ -1,4 +1,5 @@
 ![Picture of Me](/assets/Profile.jpeg)
+
 Hi! My name is Prashasth (Prash) Katukojwala and I am a second year computer science major at UC San Diego! I'm from San Diego and I've been living here for my entire life.
 
 <br>

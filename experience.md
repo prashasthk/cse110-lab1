@@ -6,7 +6,6 @@ Some recent experiences with software engineering I have been lucky to have:
 2. IBM Accelerate
 3. Yonder Dynamics 
 
-<br>
 
 ### San Diego Supercomputer Center 
 
