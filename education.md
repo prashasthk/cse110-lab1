@@ -1,5 +1,3 @@
-## B.S. Computer Science at UC San Diego
-
 I'm currently a second year computer science major at UC San Diego. So far, I've enjoyed the CS curriculum and all the classes I've taken, both the theory and practical ones. All of the faculty I have interacted with have been great and immensely valuable for my education in computer science thus far. 
 Some of my favorite CS courses at UCSD so far have been:
 - **CSE 30 — Computer Architecture**
