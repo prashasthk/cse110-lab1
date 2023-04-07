@@ -19,5 +19,8 @@ def success_in_110():
 ```
 <br>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;![CSE 110 Logo](assets/cse_110_logo.png)
+<p align="center">
+  <img src=./assets/cse_110_logo.png />
+</p>
+
 
