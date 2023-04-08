@@ -10,4 +10,4 @@ I picked up an interest in programming and computer science ever since I joined 
 
 <br> 
 
-### [My Experience](/experience.md) &emsp; &emsp; &emsp; &emsp; &emsp;[Education](/education.md) &emsp; &emsp; &emsp; &emsp; &emsp; [Looking Ahead](/looking_ahead.md)
+### [Education](/education.md) &emsp; &emsp; &emsp; &emsp; &emsp; [Experience](/experience.md) &emsp; &emsp; &emsp; &emsp; &emsp; [Looking Ahead](/looking_ahead.md)
