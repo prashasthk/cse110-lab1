@@ -2,9 +2,9 @@
 
 Some recent experiences with software engineering I have been fortunate to have:
 
-1. San Diego Supercomputer Center (UCSD)
-2. IBM Accelerate
-3. Yonder Dynamics 
+1. [San Diego Supercomputer Center (UCSD)](/experience.md#san-diego-supercomputer-center)
+2. [IBM Accelerate](/experience.md#ibm-accelerate-software-developer)
+3. [Yonder Dynamics](./experience.md#yonder-dynamics)
 
 
 ### San Diego Supercomputer Center 
@@ -20,4 +20,6 @@ A year ago, I participated in the software track of the [IBM Accelerate](https:/
 
 Currently, I am a software team member of the robotics organization [Yonder Dynamics](https://yonderdynamics.org/#/) in UCSD. The Yonder Dynamics team builds a rover to compete in the annual University Rover Challenge with teams across the world. During my time at Yonder Dynamics, I have had the opportunity to learn systems programming to program Raspberry Pi and Arduino microcontrollers to control various mechanisms of the rover. Recently, I have worked on designing a new state machine for the autonomous mission of the competition and implementing the new state machine using the ROS framework in Python. 
 
-> The University Rover Challenge (URC) is the world's premier robotics competition for college students.  Held annually in the desert of southern Utah in the United States, URC challenges student teams to design and build the next generation of Mars rovers that will one day work alongside astronauts exploring the Red Planet.
+> The University Rover Challenge (URC) is the world's premier robotics competition for college students.  Held annually in the desert of southern Utah in the United States, URC challenges student teams to design and build the next generation of Mars rovers that will one day work alongside astronauts exploring the Red Planet. 
+[About URC](https://urc.marssociety.org/home/about-urc)
+

@@ -8,9 +8,8 @@ Some goals I have for CSE 110 this quarter are:
 - [ ] Learn more about current web and full stack technologies
 - [ ] Challenge myself with writing **good quality** code
 - [ ] Work in a productive and organized team environment
-- [ ] Communicate *effectively* with my teammates
+- [ ] Communicate ***effectively*** with my teammates
 - [ ] Try to create a web application product that my team and I are proud of
-
 
 ``` 
 def success_in_110():
@@ -19,8 +18,4 @@ def success_in_110():
 ```
 <br>
 
-<p align="center">
-  <img src="./assets/cse_110_logo.png"/>
-</p>
-
-
+![CSE 110 Logo](assets/cse_110_logo.png)
